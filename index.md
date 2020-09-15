@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+Daria Smelova
+St. Petersburg, Russia
++7-995-998-35-97
+daria.smelova@hotmail.com
 
-You can use the [editor on GitHub](https://github.com/dariasmelova/Getting-Started-with-GitHub-Pages/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+SUMMARY
+Azure Administrator Associate
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+EDUCATION
+Microsoft Certification Program: AZ-900 Microsoft Azure Fundamentals Exam
 
-### Markdown
+EXPERIENCE
+Beginning to work with cloud-based solutions and service
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dariasmelova/Getting-Started-with-GitHub-Pages/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+SKILLS
+* Describe the benefits and considerations of using cloud services
+* Describe the differences between Infrastructure-as-a-Service (IaaS), Platform-as-a-Service
+(PaaS) and Software-as-a-Service (SaaS) 
+* Describe the differences between Public, Private and Hybrid cloud models
+* Describe the core Azure architectural components: Geographies,  Regions, Region Pairs, Availability Zones, Resource Groups, Azure Resource Manager
+* Describe some of the core products available in Azure:  Virtual Machines, Virtual Machine Scale Sets, App Services, Azure Container Instances (ACI), Azure Kubernetes Service (AKS), Virtual Network, Load Balancer, VPN Gateway, Application Gateway, Content Delivery Network, Blob Storage, Disk Storage, File Storage, Archive Storage, products available for databases, Azure Marketplace 
+* Describe some of the solutions available on Azure:  IoT Hub and IoT Central,products available for Big Data and Analytics, Artificial Intelligence (AI), Azure Functions, Logic Apps and Event Grid, Azure DevOps and Azure DevTest Labs
+* Describe Azure management tools: Azure Portal, Azure PowerShell, Azure CLI and Cloud Shell
+* Describe securing network connectivity in Azure: Network Security Groups (NSG), Application Security Groups (ASG), User Defined Routes (UDR), Azure Firewall, Azure DDoS Protection
+* Describe core Azure Identity services
+* Describe security tools and features of Azure
+* Describe Azure governance methodologies: Azure Policy, Role-Based Access Control (RBAC), Locks, Azure Blueprints
+* Describe monitoring and reporting options in Azure
+* Describe privacy, compliance and data protection standards in Azure
+* Describe Azure subscriptions
+* Describe planning and management of costs: Zones for billing purposes, the Pricing calculator, the Total Cost of Ownership (TCO) calculator, best practices for minimizing Azure costs 
+* Describe Azure Service Level Agreements (SLAs)
+* Describe service lifecycle in Azure
