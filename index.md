@@ -1,15 +1,15 @@
-Daria Smelova
-St. Petersburg, Russia
-+7-995-998-35-97
-daria.smelova@hotmail.com
+# Daria Smelova  
+St. Petersburg, Russia  
++7-995-998-35-97  
+daria.smelova@hotmail.com  
 
-SUMMARY
-Azure Administrator Associate
+SUMMARY  
+Azure Administrator Associate  
 
-EDUCATION
-Microsoft Certification Program: AZ-900 Microsoft Azure Fundamentals Exam
+EDUCATION  
+Microsoft Certification Program: AZ-900 Microsoft Azure Fundamentals Exam  
 
-EXPERIENCE
+EXPERIENCE  
 Beginning to work with cloud-based solutions and service
 
 SKILLS
